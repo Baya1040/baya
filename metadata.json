@@ -1,0 +1,6 @@
+{
+  "name": "Bahilu Bekele - Video Editor Portfolio",
+  "description": "Portfolio of Bahilu Bekele, Video Editor based in Addis Ababa. Video editing for YouTube, TikTok, short-form ads, talking-head content, and documentaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
